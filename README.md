@@ -2,7 +2,7 @@
 
 The dataset is taken from Kaggle.Link is mentioned below.
 
-This dataset contains the chest X-ray images of C)VID-19 affected people and the Normal people.
+This dataset contains the chest X-ray images of COVID-19 affected people and the Normal people.
 
 
 **Aim**:
